@@ -1,9 +1,7 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="Encoding">
-        <file url="PROJECT" charset="UTF-8" />
-      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -13,11 +11,6 @@
         <OptionsSetting value="true" id="Edit" />
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
-      </component>
-      <component name="PropertiesComponent">
-        <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
     </defaultProject>
   </component>
